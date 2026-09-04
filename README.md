@@ -20,6 +20,8 @@ Plaintext  = Ciphertext ⊕ Key
 
 Unlike AES, RSA, or ChaCha20-based encryption, OTP security does not depend on computational hardness. Even with unlimited computing power, the ciphertext can never be cracked — provided the key is truly random, at least as long as the plaintext, and never reused.
 
+![screen](tela.png)
+
 ---
 
 ## Quick Start
